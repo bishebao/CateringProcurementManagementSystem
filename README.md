@@ -1,0 +1,2 @@
+# CateringProcurementManagementSystem
+ 基于框架的系统，系统仅管理员一个个角色
